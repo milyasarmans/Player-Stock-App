@@ -1,0 +1,36 @@
+box-player,
+search-player {
+    display: block;
+    margin-bottom: 3rem;
+}
+
+card-player {
+    margin-bottom: 1rem;
+}
+
+card-player a {
+    font-family: 'Alfa Slab One', cursive;
+    color: #603601;
+    text-decoration: none;
+}
+
+card-player a:hover,
+card-player a:active {
+    color: #CC9544;
+}
+
+card-player .badge {
+    font-size: 10px;
+    border-radius: 0;
+}
+
+.card-body .badge {
+    font-size: 14px;
+    padding: 3px 10px 5px 10px;
+    font-weight: bold;
+    background: #361500;
+}
+
+.card img {
+    padding: 15px 0px;
+}
